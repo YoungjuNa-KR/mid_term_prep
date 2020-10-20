@@ -1,3 +1,4 @@
 This file is a short description of git branching.
 
-Economic version 1.0
+master version 1.0
+
